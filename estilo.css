@@ -56,7 +56,7 @@ main {
 }
 
 .imagem-capa {
-  max-width: 500px;
+  max-width: 1920px 700px;
   width: 100%;
 }
 
